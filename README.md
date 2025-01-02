@@ -1,4 +1,4 @@
-# Adaptive and Wiener Filtering for ECG Signal Processing
+# Adaptive and Wiener Filtering for Signal Processing
 
 ## Project Overview
 This project investigates the application of Wiener and adaptive filters for ECG signal processing. 
